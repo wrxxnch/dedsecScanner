@@ -1,0 +1,6 @@
+{
+  "name": "DedSec Scanner",
+  "description": "DEDSEC wireless signal detector alerting on matched WiFi SSIDs, BSSIDs, and Bluetooth MACs with custom Morse/vibe rhythms, sound, and WiGLE net import.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
